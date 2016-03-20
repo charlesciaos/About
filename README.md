@@ -19,3 +19,9 @@
  - PHP
  - JavaScript
  - Raspberry Pi
+
+ ## Projects
+ - TV system developement (Toshiba/Philip)
+ - Android Apps
+ - Fullstack Website Design
+ - Raspberry pi projects
