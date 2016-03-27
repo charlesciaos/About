@@ -19,9 +19,11 @@
  - PHP
  - JavaScript
  - Raspberry Pi
+ - Compueter Graphics
 
- ## Projects
+## Projects
  - TV system developement (Toshiba/Philip)
  - Android Apps
  - Fullstack Website Design
  - Raspberry pi projects
+ - Comic Parser
